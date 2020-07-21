@@ -1,0 +1,4 @@
+pytorch
+flask
+pyngrok
+PIL
