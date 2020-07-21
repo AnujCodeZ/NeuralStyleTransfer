@@ -22,7 +22,7 @@ Style Transfer not only makes the work simpler, but inspires a lot of people to 
 - Gaming
 - Virtual Reality
 
-Examples:
+Web page sample:
 
 - Page 1
 
@@ -76,4 +76,4 @@ Examples:
 
 > If you want Tensorflow version:
 
-[Neural Style Transfer in Tensorflow](https://github.com/eshna)
+[Neural Style Transfer in Tensorflow](https://github.com/eshnaairon/NeuralStyleTransfer)
