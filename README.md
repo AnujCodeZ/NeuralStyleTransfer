@@ -22,7 +22,7 @@ Style Transfer not only makes the work simpler, but inspires a lot of people to 
 - Gaming
 - Virtual Reality
 
-Web page sample:
+> Web page sample:
 
 - Page 1
 
