@@ -54,8 +54,6 @@ Web page sample:
 
 - Put your ngrok authtoken.
 
-  > ! ngrok authtoken xxxxxxx
-
 - Copy public url from ngrok and open it.
 
 - Upload your desired content and style image.
